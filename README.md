@@ -2,7 +2,7 @@
 
 
 Date | Code Version | Description 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 03-12-2023 | V5 | The best working one. Works as in ss 25.
 | 22-11-2023 | V6 | Cubic spline to make the lines smoother. Weird, even self intersecting shapes coming up. Works as in ss26.
 | 01-12-2023 | V7 | Trying to fix the problems with V6
