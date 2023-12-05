@@ -22,3 +22,6 @@ Date | Code Version | Description
 
 ## Things to do:
 1. Implement Bezier curves on the achieved contours of v5.
+
+2. ![Screenshot (29)](https://github.com/surabhit-08/snap-welding/assets/62366465/520bbe8a-49ed-4f97-bbcf-441971dd6da6)
+
